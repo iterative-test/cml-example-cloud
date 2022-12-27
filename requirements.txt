@@ -1,0 +1,12 @@
+cycler
+joblib
+kiwisolver
+matplotlib
+numpy
+Pillow
+pyparsing
+python-dateutil
+scikit-learn
+scipy
+six
+threadpoolctl
